@@ -1,7 +1,3 @@
-
-Gemini said
-To create a professional GitHub README for your Employee Attrition project based on the provided Jupyter Notebook, you can use the template below. It covers data generation, preprocessing, modeling, and results.
-
 Employee Attrition Prediction
 📌 Project Overview
 Employee attrition (turnover) is a significant cost for organizations. This project utilizes a synthetic dataset of 15,000 employees to identify key drivers of attrition and build a predictive model. We use a Random Forest Classifier to estimate the likelihood of an employee leaving based on factors like job satisfaction, income, overtime, and work-life balance.
